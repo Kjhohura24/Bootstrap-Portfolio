@@ -15,7 +15,7 @@ body {
 .bg-dark {
     background-color: #cc4545 !important;
   }
-  /*change how navbar links work when hovered*/
+ 
 nav a:hover {
     text-decoration: underline;
     text-underline-offset: 5px;
@@ -23,13 +23,12 @@ nav a:hover {
     background-color: var(--highlight);
     filter: brightness(125%);
   }
-  
-  /*remove links and footer on a small screen*/
+
 @media only screen and (max-width: 600px) {
 .custom-nav {
       display: none !important;
     }
-    /*align the two out of line boxes*/
+    
 .gg,
 .space-invaders {
       margin-left: 25% !important;
@@ -59,7 +58,7 @@ footer {
     --bs-btn-hover-border-color: #cc4545;
   
 }
-  /*set text colour*/
+  
   h1 {
     color: #cc4545 !important;
     font-family: "Lucida Console", "Courier New", monospace;
@@ -100,7 +99,6 @@ footer {
     font: bold;
   }
   
-  /*add image to jumbo tron and centre content inside of it*/
   .heroBackground {
     height: calc(50vh);
     background-image: url(../images/02-portfolio-4.jpg);
@@ -111,67 +109,13 @@ footer {
     justify-content: center;
   }
   
-  /* setting features of text in jumbotron*/
-  .jumboCopy {
-    width: 70%;
-    min-width: 500px;
-    max-width: 700px;
-    color: var(--mainText);
-    text-align: center;
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
-  
   .heading {
     width: 100%;
     text-align: center;
     padding-right: 20px;
     position: block;
   }
-  
-  /*set height and width of main card as well as brightness*/
-  .mso {
-    background-image: url(../images/mso.png);
-    height: 300px;
-    background-size: cover;
-    filter: brightness(50%);
-    width: 50%;
-    margin-left: 25%;
-    margin-bottom: 25px;
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
-  
 
-  /*set main size of other grids*/
-  .gg,
-  .tig,
-  .space-invaders,
-  .aspf {
-    height: 300px;
-    width: 500px;
-    filter: brightness(25%);
-    width: 50%;
-    margin-left: 25%;
-    margin-bottom: 25px;
-  }
-  
-
-  /*set shadow for box inside of project and postion*/
-  .pText {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    justify-content: end;
-    background-color: #03034f66;
-    font-family: "Lucida Console", "Courier New", monospace;
-  }
-  
-  /*use boostrap default variables to modify accordion to fit theme*/
-  
-  
-  
-  
-  /*set the hieght and color for contact me section*/
   .contact-me {
     text-align: centre;
     background-color: !important;
@@ -235,11 +179,6 @@ footer {
         font-family: "Lucida Console", "Courier New", monospace;
 
     }
-
-
-  /*spaced the footer and colored it to differentiate and center the text*/
-
-
   container text-center {
 
   }
@@ -251,15 +190,6 @@ footer {
     font-size: 30px;
     font-family: "Lucida Console", "Courier New", monospace;
   }
-{ 
-    height: 20px;
-    width: 20px;
-    margin-left: 10px;
-    margin-right: 10px;
-
-
-  }
-
 
 
 
