@@ -23,6 +23,10 @@ Summit the link.
 
 URL : https://kjhohura24.github.io/Bootstrap-Portfolio/
 
-URL : https://github.com/Kjhohura24/KhadijahsPortfolio/tree/main/04-responsive-portfolio-lesson/challenge/starter
+URL : https://github.com/Kjhohura24/Bootstrap-Portfolio 
 
-screenshot: https://user-images.githubusercontent.com/94381423/279487521-6647df12-61de-4805-b570-ac904e794878.png screenshot 2: https://user-images.githubusercontent.com/94381423/279487734-28ec593d-8e48-44ca-81b3-a480cc3c75c7.png
+screenshot: 
+<p><img src="./images/Screenshot 1.png" >Screen Shot 1</p>
+<p><img src="./images/Screenshot 2.png" >Screen Shot 2</p>
+<p><img src="./images/Screenshot 3.png" >Screen Shot 3</p>
+<p><img src="./images/Screenshot 3.png" >Screen Shot 4</p>
