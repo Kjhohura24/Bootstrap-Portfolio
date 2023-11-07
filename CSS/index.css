@@ -129,7 +129,8 @@ footer {
   .contact-card {
     background-color: #f3d0d0!important;
   }
-   #about-me {
+   
+  #about-me {
     text-align: left;
     font-weight: bold;
     font-size: medium;
@@ -139,7 +140,7 @@ footer {
     font-family: "Lucida Console", "Courier New", monospace;
     }
  
-    #contact-me {
+#contact-me {
     text-align: left;
     font-weight: bold;
     font-size: medium;
@@ -149,7 +150,7 @@ footer {
     font-family: "Lucida Console", "Courier New", monospace;
     }
 
-    #my-work {
+#my-work {
     text-align: left;
     font-weight: bold;
     font-size: medium;
@@ -159,8 +160,8 @@ footer {
     font-family: "Lucida Console", "Courier New", monospace;
     }
      
-    #cv {
-    text-align: left;
+#cv {
+    text-align: right;
     font-weight: bold;
     font-size: medium;
     color: rgb(248, 248, 248);
@@ -169,7 +170,7 @@ footer {
     font-family: "Lucida Console", "Courier New", monospace;
     }
         
-    #skills {
+   #skills {
         text-align: left;
         font-weight: bolder;
         font-size: medium;
