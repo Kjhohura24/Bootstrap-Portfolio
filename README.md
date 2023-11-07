@@ -21,6 +21,8 @@ Refactor the code
 
 Summit the link.
 
+URL to previous portfolio: https://kjhohura24.github.io/KhadijahsPortfolio/
+
 URL : https://kjhohura24.github.io/Bootstrap-Portfolio/
 
 URL : https://github.com/Kjhohura24/Bootstrap-Portfolio 
