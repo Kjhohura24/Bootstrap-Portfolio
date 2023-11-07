@@ -225,6 +225,18 @@ footer {
     font-family: "Lucida Console", "Courier New", monospace;
     }
         
+    #skills {
+        text-align: left;
+        font-weight: bolder;
+        font-size: medium;
+        color: #cc4545;
+        padding: 30px;
+        background-image: url(../images/Banners.jpg);
+        font-family: "Lucida Console", "Courier New", monospace;
+
+    }
+
+
   /*spaced the footer and colored it to differentiate and center the text*/
 
 
